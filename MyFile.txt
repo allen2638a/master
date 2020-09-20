@@ -1,4 +1,8 @@
 test1
 test2
+<<<<<<< HEAD
 This is not a test
 
+=======
+Those are a test
+>>>>>>> 5b8bb2192486ea28a80e4c757ff4fabebec636db
